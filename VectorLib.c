@@ -34,7 +34,6 @@ vector crossProcuct(vector VEC1,vector VEC2){
 //Prints the vector in an easily readable form
 
 void showVector(vector Vec) {
-	printf("Inside Funct\n");
 	if (Vec.i >= 0) {
 		if (Vec.j >= 0) {
 			if (Vec.k >= 0) {
